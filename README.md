@@ -12,8 +12,8 @@ This application utilizes natural language processing (NLP) and machine learning
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/sadeghsk1379/emotion-detection-in-txt.git
+   
 2. **Install the required packages:**
    ```bash
    pip install -r requirements.txt
